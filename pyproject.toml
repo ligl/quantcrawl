@@ -1,7 +1,7 @@
 [project]
 name = "quantcrawl"
 version = "0.1.0"
-description = "Distributed Scrapy scaffold for quant and alternative data collection"
+description = "A Quantitative Trading System Data Collection Platform Based on Scrapy."
 readme = "README.md"
 requires-python = ">=3.11,<3.14"
 dependencies = [
