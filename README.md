@@ -1,4 +1,4 @@
-# QuantCrawl Scaffold
+# QuantCrawl
 
 A Quantitative Trading System Data Collection Platform Based on Scrapy.
 
